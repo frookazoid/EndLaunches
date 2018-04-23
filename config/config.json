@@ -5,7 +5,7 @@
   "generator": {
       "gen": false,
       "amount": 1,
-      "catchall": "sneakk.me",
+      "catchall": "",
       "password": "abc12345"
   }
 }
