@@ -1,0 +1,11 @@
+{
+  "bot": {
+      "link": "https://launches-api.endclothing.com/api/products/nike-air-jordan-1-x-off-white-energy-aq0818-100"
+  },
+  "generator": {
+      "gen": false,
+      "amount": 1,
+      "catchall": "sneakk.me",
+      "password": "abc12345"
+  }
+}
